@@ -1,0 +1,5 @@
+{
+	"on-temp": 65,
+	"off-temp": 55,
+	"gpio": 17
+}
